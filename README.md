@@ -21,9 +21,9 @@ This repository provides an updated version of the code, migrated to **TensorFlo
 2. [Requirements](#requirements)
 3. [Dataset](#dataset)
 4. [Usage](#usage)
-6. [Contributors](#contributors)
-7. [Citation](#citation)
-8. [License](#license)
+5. [Contributors](#contributors)
+6. [Citation](#citation)
+7. [License](#license)
 
 ---
 
@@ -81,11 +81,3 @@ If you use this code or the T-GCN model in your research, please cite the origin
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to open an issue or submit a pull request if you have any suggestions or improvements!
-
----
-
-This `ReadMe` provides a clear overview of the repository, its purpose, and how to use it. Let me know if you need further adjustments!
